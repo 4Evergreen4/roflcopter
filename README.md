@@ -12,6 +12,6 @@ Press ```q``` to quit. _(I have no idea why you would do that)_
 ![roflcopter](https://mediacru.sh/Mw90mZX10AGA.png)
 
 ### License
-LGPL 3.0
+Apache 2.0
 
 See LICENSE for full legal text.
