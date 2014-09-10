@@ -12,6 +12,4 @@ Press ```q``` to quit. _(I have no idea why you would do that)_
 ![roflcopter](https://mediacru.sh/Mw90mZX10AGA.png)
 
 ### License
-Apache 2.0
-
-See LICENSE for full legal text.
+https://www.apache.org/licenses/LICENSE-2.0.html
